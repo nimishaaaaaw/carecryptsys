@@ -1,2 +1,3 @@
 streamlit
 cryptography
+bcrypt==4.1.2
